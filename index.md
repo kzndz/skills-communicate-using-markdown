@@ -13,6 +13,12 @@ MOVE  A  TO  B.
 
 
 
+- [x] Turn on GitHub Pages
+- [ ] Outline my portfolio
+- [ ] Introduce myself to the world
+- [x] Organize my To-Do Lists
+
+
 
 
 
